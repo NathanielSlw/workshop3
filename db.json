@@ -1,0 +1,6 @@
+{
+    "KNN": {"balance": 1000, "accuracy": 0.95},
+    "SVM": {"balance": 1000, "accuracy": 0.92},
+    "RandomForest": {"balance": 1000, "accuracy": 0.96},
+    "LogisticRegression": {"balance": 1000, "accuracy": 0.93}
+}
